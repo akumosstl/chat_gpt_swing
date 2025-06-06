@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8080/" href="agent-swing-recorder.jnlp">
+    <information>
+        <title>Agent Swing Recorder</title>
+        <vendor>ExampleVendor</vendor>
+        <description>Agent that records user actions in Swing apps</description>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <j2se version="1.8+" />
+        <jar href="agent-swing-recorder.jar" main="false"/>
+    </resources>
+    <application-desc main-class="com.agent.AgentMain"/>
+</jnlp>

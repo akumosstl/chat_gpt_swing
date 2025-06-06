@@ -1,0 +1,14 @@
+io\github\akumosstl\EventHookManager.class
+io\github\akumosstl\model\Action.class
+io\github\akumosstl\utils\SwingEventParser.class
+io\github\akumosstl\persistence\JsonPersistence.class
+io\github\akumosstl\automation\AutomationExecutor$1.class
+io\github\akumosstl\automation\AutomationExecutor.class
+io\github\akumosstl\http\SimpleHttpServer$1.class
+io\github\akumosstl\http\SimpleHttpServer.class
+io\github\akumosstl\Recorder.class
+io\github\akumosstl\database\DatabaseManager.class
+io\github\akumosstl\persistence\FileManager.class
+io\github\akumosstl\AgentMain.class
+io\github\akumosstl\persistence\SqlitePersistence.class
+io\github\akumosstl\utils\SwingComponentUtils.class
